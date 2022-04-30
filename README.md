@@ -11,3 +11,5 @@
 #5 Delete the un-necessary files installed by the React Installation: App.test.js; logo.svg and setupTests.js. Remove the 'import logo' from App.js
 
 #6 Made two simple entry fields (email and password) that have a listener tied to a button. When the button is clicked, it stores the information in the entry fields as an object
+
+#7 Need to install Firebase next
